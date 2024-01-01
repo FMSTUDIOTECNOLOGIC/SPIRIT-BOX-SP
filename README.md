@@ -1,3 +1,3 @@
-#spiritbox
+spiritbox
 
--apoya a el desarrollo 
+apoya a el desarrollo 
